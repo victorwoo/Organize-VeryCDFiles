@@ -4,7 +4,7 @@ VeryCD 文件整理工具
 
 例如 [《Sundy's 《Android深入浅出》《Android高级应用》《Android开发视频教程》》[MP4]](http://www.verycd.com/topics/2900036/)：
 
-![VeryCD 资源示例](.\snipaste20170306_094333.png)
+![VeryCD 资源示例](snipaste20170306_094333.png)
 
 从这个 VeryCD 页面中下载的资源，将被整理到以下子文件夹中：
 
